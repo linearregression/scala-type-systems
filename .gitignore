@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .classpath
 .project
 .settings/
@@ -9,3 +10,18 @@ log/
 target/
 .svn/
 .metadata/
+=======
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+>>>>>>> 880b32d12952bb46fe0e1dadc96ef40c1e489f25
